@@ -1,6 +1,4 @@
-body {
-	background-color: #E7ECEF;
-}
+
 
 h2 {
 	color: #06324B;
@@ -10,3 +8,20 @@ p {
 	color: #8BDCF9;
 }
 
+
+#shack{
+	color: #07325F;
+	font-size:60px;
+}
+
+#beach{
+	background-image: url("beach.jpg");
+}
+
+.header { 
+    background-image: url("beach.jpg");
+    padding: 100px 0; 
+    background-size: cover; 
+    background-position: center;
+    text-align: center; 
+}
